@@ -4,6 +4,8 @@
 
 * [hello silicon](https://github.com/below/HelloSilicon) 
 
+* [Apple arm64](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms)
+
 * [godbolt](https://godbolt.org/)
 
 * [basics of arm64 assembly](https://www.deusinmachina.net/p/the-basics-of-arm64-assembly)
